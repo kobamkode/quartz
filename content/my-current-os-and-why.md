@@ -2,7 +2,7 @@
 id: my-current-os-and-why
 aliases: []
 tags:
-  - daily-driver
+  - my-setup
 title: My Current OS and Why
 ---
 

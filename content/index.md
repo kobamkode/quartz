@@ -2,7 +2,9 @@
 id: index
 aliases: []
 tags: []
-title: Welcome to My Digital Trash
+title: Welcome to my Digital Trash
 ---
 
-👋 Welcome!
+👋 Hi! Thank you for visiting. 
+
+This site is part of my learning in public process.

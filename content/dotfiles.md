@@ -2,7 +2,7 @@
 id: dotfiles
 aliases: []
 tags:
-  - daily-driver
+  - my-setup
 title: Dotfiles
 ---
 
